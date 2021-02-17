@@ -1,2 +1,2 @@
 # PersonalWeb
-My current personal website. will add features as I go.
+My current personal website. Will add features as I go.
